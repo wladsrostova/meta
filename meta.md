@@ -6,4 +6,8 @@ Russians are not enthusiastic about a regime that has sent hundreds of thousands
 
 #
 
-Next
+He controls the media, **feeding Russians a diet** of propaganda extolling him, and he would likely have won even a fair election.
+
+Он контролирует медиа и скармливает русским превозносящую его пропаганду, и скорее всего выиграл бы даже при честных выборах.
+
+#
