@@ -18,3 +18,8 @@ He controls the media, **feeding Russians a diet** of propaganda extolling him, 
 Now, if I don’t get elected, it’s going to be a **bloodbath** for the whole—that’s going to be the least of it. It’s going to be a **bloodbath** for the country.
 
 Итак, если меня не выберут настанет всеобщая кровавая баня - случится самое худшее. Настанет кровавая баня для страны.
+#
+
+Drone swarms, which are being developed by China as well as the U.S., “could **wipe out,** say, all males between 12 and 60 in a city,” said Stuart Russell, a computer scientist at the University of California, Berkeley.
+
+Рой дронов, которые разрабатываются как в Китае так и в США, "могут _уничтожить (досл. стереть)_, скажем, всех мужчин от 12 до 60 в городе", сказал Стюарт Рассел, компьютерный исследователь из университета Калифорния, Беркли.
