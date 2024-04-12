@@ -14,7 +14,6 @@ Authorities claimed turnout was 77 percent, but that dubious figure was inflated
 "Возможно, правление Путина в безопасности" на сегодняшний день, сказала Саманта де Бендерн в The Guardian. Он контролирует медиа и _скармливает_ русским превозносящую его пропаганду, и скорее всего выиграл бы даже при честных выборах. Ещё до начала выборов сотни тысяч избирателей подписывали петиции в поддержку запрещённых оппозиционных кандидатов, во время выборов неизмеримое количество людей вписало Навального в бюллютени или испортили их иным образом.
 
 ## The furor over Trump’s ‘**bloodbath**’ warning (Фурор вокруг заявления Трампа о "_кровавой бане_")
-% Дональд Трамп. Чуть позжу добавлю с начала абзаца. Достаточно экспрессивная речь и кажется с нарушением граммтических правил
 
 Donald Trump and his allies pushed back this week against an uproar over his claim that, if he’s not re-elected, there’s “going to be a bloodbath for the country.” At a campaign appearance in Ohio, Trump opened with tributes to MAGA supporters jailed for their role in the Jan. 6 insurrection, calling them “unbelievable patriots” and “hostages.” He called migrants entering the U.S. criminals and “animals,” who are “not people, in my opinion.” But the biggest reaction came in response to the “bloodbath” comment, which accompanied Trump’s vow to put “a 100 percent tariff” on Chinese-made electric cars. "Now, if I don’t get elected, it’s going to be a **bloodbath** for the whole—that’s going to be the least of it. It’s going to be a **bloodbath** for the country."
 
@@ -27,6 +26,7 @@ Some experts worry that AI’s ability to analyze massive amounts of information
 
 ## Russia: Acts of defiance against a sham election (Россия: Акты неповиновения против фиктивных выборов)
 % Это начало абзаца. Дальше ничего существенного.
+
 Russia held this “farce of an election” even in the Russian-occupied regions of Ukraine, forcing Ukrainians there to vote **at gunpoint**, said Nina Kolomiets in Podrobnosti.ua (Ukraine). In Donetsk, Luhansk, Zaporizhzhia, and Kherson, poll workers accompanied by armed soldiers “went from apartment to apartment, just to get a tick on the ballot.”
 
 Россия сохранила этот "фарс на выборах" даже на оккупированных украинских территориях, принуждая украинцев идти на выборы _под дулом пистолета (на прицеле)_, сказала Нина Коломиец в podrobnosti.ua (Украина). В Донецке, Луганске, Запорожье и Херсоне работники избирательных участков вместе с вооруженными солдатами "ходили по квартирам чтобы поставить галочку в бюллетени."
