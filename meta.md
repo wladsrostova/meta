@@ -36,3 +36,14 @@ Russia held this “farce of an election” even in the Russian-occupied regions
 Zelensky has pleaded with congressional leaders to urgently pass the White House’s requested $60 billion package for Ukraine’s war effort. On Sunday, House Speaker Mike Johnson (r-La.) said that the funding, which has been blocked for months, could be put to a vote next week after the Easter recess.  In a fox News appearance, Johnson said the bill would contain “some important innovations” — perhaps loaning the money to Ukraine. “If we can use the seized assets of russian oligarchs to allow the Ukrainians to fight them, that’s just **pure poetry**,” Johnson said.
 
 Зеленский попросил лидеров конгресса удовлетворить просьбу Белого дома на пакет в 60 миллиардом долларов на военные нужды Украины. В воскресенье спикер белого дома Майк Джонсон сказал, что средства, которые были заблокированы на месяцы, могут быть поставлены на голосование на следующей неделе после пасхальных каникул. В интервью изданию fox News Джонсон сказал, что законопроект содержал бы "некоторые важные новведения" - возможно денежный заим Украине. "Если мы сможем использовать арестованные активы русских олигархов для обеспечения украинцев для борьбы с ними это будет _чистая поэззия_".
+
+% Это статья с официального сайта. Если тебе не подойдёт такой источник, то я хз как эту статью искать в пеяатном издании.
+# https://www.washingtonpost.com/world/2024/04/14/ukraine-drones-russia-war-skies/
+## Drones are crowding Ukraine’s skies, largely paralyzing battlefield (Дроны заполонили украинское небо и значительно парализуют поле боя).
+DONETSK REGION, Ukraine — So many drones patrol the skies over Ukraine’s front lines — hunting for any signs of movement — that Ukrainian and Russian troops have little ability to move on the battlefield without being spotted, and blown up.
+
+Instead, on missions, they rush from one **foxhole** to another, hoping the pilots manning the enemy drones overhead are not skilled enough to find them inside. Expert drone operators, their abilities honed on the front, can stalk just a single foot soldier to their death, diving after them into hideouts and trenches.
+
+Донецк, Украина - Большое количество дронов патрулирует небо над украинской линией фронта, охотясь за любыми признаками движения. Таким образом у украинских и русских подразделений немного возможностей передвигаться по полю боя и не быть обнаруженными и уничтоженными. 
+
+На заданиях они перебегают от одного _укрытия_ (foxhole - досл. "лисья нора". Варианты перевода: окоп, стрелковая ячейка, дот, индивидуальное убежище) до другого в надежде , что оператор вражеского дрона не настолько опытен (продвинут), чтобы обнаружить его внутри. Опытные операторы, чьё мастерство было отточено на фронте, могут преследовать даже одного(одинокого) солдата до его смерти, ныряя за ним в убежища и траншеи.
