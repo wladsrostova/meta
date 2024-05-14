@@ -58,6 +58,7 @@ Instead, on missions, they rush from one **foxhole** to another, hoping the pilo
 # https://www.nytimes.com/interactive/2024/05/13/world/europe/ukraine-missile-defenses.html
 ## Facing an Endless Barrage, Ukraine’s Air Defenses Are Withering (Столкнувшись с бесконечным шквалом огня, украинские ПВО пасуют).
 % withering - увядают, чахнут. Я хз как это правильно перевести.
+
 Konrad Muzyka, a military analyst with Rochan Consulting in Poland, said large and slow Russian reconnaissance drones had recently been able to operate behind Ukrainian lines around the cities of Dnipro and Zaporizhzhia.
 
 “If you can’t shoot them down, then obviously this raises a significant question about the Ukrainian ability to provide an **air-defense umbrella**,” he said.
