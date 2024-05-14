@@ -54,3 +54,15 @@ Instead, on missions, they rush from one **foxhole** to another, hoping the pilo
 ...the problem is that the closer Nato hugs Ukraine, the more Russia is sure to brandish its nuclear weapons, and the greater the chances it actually uses them. In response to Macron and Cameron’s remarks last week, the Kremlin on Monday issued an angry statement full of accusations at the west in which it announced that Russia would soon conduct a tactical nuclear weapons exercise near Ukraine. This underscores yet again that Vladimir Putin considers these weapons fair game in this war. (...) Obviously, Nato cannot and should not quiver, cut, and run every time Russia **rattles the nuclear saber**. Nor is Nato doing so. But western leaders need to be clear-eyed about the risks and prudent in their approach. 
 
 ... проблема в том, что чем теснее НАТО поддерживает (дословно "теснее обнимает") Украину, тем, несомненно, сильнее Россия будет размахивать своим ядерным оружием, и увеличивается шанс его реального использования.  В ответ на выступления Макрона и Камерона на прошлой неделе кремль в понедельник опубликовал гневное заявление, полное обвинений запада, в котором объявил о скором проведении военных учений с применением тактического ядероного оружия вблизи Украины. Это ещё раз подчёркивает, что Владимир Путин рассматривает применение такого оружия нормальным (честным) в данной войне. Естественно НАТО не может и не будет дрожать и прятаться каждый раз, когда Россия _размахивает ядерным мечём_. И НАТО не делает этого. Но лидеры западных стран должны чётко оценивать риски и благоразумно подходить к делу. 
+
+# https://www.nytimes.com/interactive/2024/05/13/world/europe/ukraine-missile-defenses.html
+## Facing an Endless Barrage, Ukraine’s Air Defenses Are Withering (Столкнувшись с бесконечным шквалом огня, украинские ПВО пасуют).
+% withering - увядают, чахнут. Я хз как это правильно перевести.
+
+Konrad Muzyka, a military analyst with Rochan Consulting in Poland, said large and slow Russian reconnaissance drones had recently been able to operate behind Ukrainian lines around the cities of Dnipro and Zaporizhzhia.
+
+“If you can’t shoot them down, then obviously this raises a significant question about the Ukrainian ability to provide an **air-defense umbrella**,” he said.
+
+Конрад Музыка, военный аналитик из Rochan Consulting, Польша сказал, что большие и медленные российские разведывательные дроны в последнее время могут работать за линией фронта возле городов Днепр и Запорожье.
+
+"Если вы не можете сбивать их, то, естественно, встаёт серьёзный вопрос о способностях Украины предоставить _противовоздушный зонтик_." сказал он.

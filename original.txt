@@ -30,3 +30,10 @@ Instead, on missions, they rush from one foxhole to another, hoping the pilots m
 # https://www.theguardian.com/commentisfree/article/2024/may/08/russia-nuclear-posturing-nato-ukraine
 ## The world must reject Russia’s nuclear posturing – but not ignore the danger (Мир должен отвергнуть Российскую ядерную доктрину, но не игнорировать опасность).
 the problem is that the closer Nato hugs Ukraine, the more Russia is sure to brandish its nuclear weapons, and the greater the chances it actually uses them. In response to Macron and Cameron’s remarks last week, the Kremlin on Monday issued an angry statement full of accusations at the west in which it announced that Russia would soon conduct a tactical nuclear weapons exercise near Ukraine. This underscores yet again that Vladimir Putin considers these weapons fair game in this war. (...) Obviously, Nato cannot and should not quiver, cut, and run every time Russia **rattles the nuclear saber**. Nor is Nato doing so. But western leaders need to be clear-eyed about the risks and prudent in their approach. 
+
+# https://www.nytimes.com/interactive/2024/05/13/world/europe/ukraine-missile-defenses.html
+## Facing an Endless Barrage, Ukraine’s Air Defenses Are Withering (Столкнувшись с бесконечным шквалом огня, украинские ПВО пасуют).
+% withering - увядают, чахнут. Я хз как это правильно перевести.
+Konrad Muzyka, a military analyst with Rochan Consulting in Poland, said large and slow Russian reconnaissance drones had recently been able to operate behind Ukrainian lines around the cities of Dnipro and Zaporizhzhia.
+
+“If you can’t shoot them down, then obviously this raises a significant question about the Ukrainian ability to provide an **air-defense umbrella**,” he said.
